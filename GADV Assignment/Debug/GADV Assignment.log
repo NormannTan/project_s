@@ -1,0 +1,20 @@
+﻿Build started 11/14/2012 3:28:48 AM.
+     1>Project "C:\Users\Core\Dropbox\BKFC International\Project S\Source Code\Marcus Code\GADV Assignment\GADV Assignment.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\GADV Assignment.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\GADV Assignment.unsuccessfulbuild".
+         Touching "Debug\GADV Assignment.lastbuildstate".
+     1>Done Building Project "C:\Users\Core\Dropbox\BKFC International\Project S\Source Code\Marcus Code\GADV Assignment\GADV Assignment.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
